@@ -1,0 +1,9 @@
+h1 {
+    color: white;
+}
+
+.router {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

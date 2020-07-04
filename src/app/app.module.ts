@@ -13,8 +13,8 @@ import { PageNotFoundComponent } from './page-not-found/page-not-found.component
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule,
-    AquamdModule
+    AquamdModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
